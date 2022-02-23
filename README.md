@@ -1,15 +1,9 @@
-- 👋 Hi, I’m @SamyrHissa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá!
+Eu sou Samyr Hissa, Sou engenheiro civil, pós-graduado em análise de sistemas, Full-Stack developer, fiz vários curso na área de TI e desenvolvi um sistema de gerenciamento de uma empresa de construção.
 
-<!---
-SamyrHissa/SamyrHissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Sou engenheiro civil, pós-graduado em análise de sistemas com vários curso na área de TI, desenvolvi sistema de gerenciamento de uma empresa de construção.
-tecnologias
-botão com linkedin
+## Minhas tecnologias
+HTML • CSS • Javascript • React.JS • NodeJS • Typescript • MySQL • AWS • Delphi • Diretor na S.C.Hissa Construções • Git • Unit Testing • Jest • Firebase
+
+- [Linkedin](https://www.linkedin.com/in/samyr-hissa/)
 
 
